@@ -25,6 +25,7 @@ nav {
     padding: 30px 60px;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 1px solid #D1D1D1;
 }
 
 .links a {
@@ -47,6 +48,7 @@ header {
     background-position: right;
     background-repeat: no-repeat;
     padding: 148px 697px 148px 60px;
+    border-bottom: 1px solid #D1D1D1;
     background-image: url(../imgs/banner_red.jpg);
 }
 
@@ -87,12 +89,14 @@ header button {
     padding: 45px 80px;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 1px solid #D1D1D1;
 } 
 
 .services {
     background-position: left;
     background-repeat: no-repeat;
     padding: 100px 60px 100px 55px;
+    border-bottom: 1px solid #D1D1D1;
     background-image: url(../imgs/banner_grey.jpg);
 }
 
@@ -106,7 +110,7 @@ header button {
     justify-content: space-between;
 }
 
-.services h1 {
+.services h2 {
     width: 831px;
     color: white;
     font-size: 128px;
